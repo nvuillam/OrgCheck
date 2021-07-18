@@ -1,0 +1,4 @@
+skipUpdateGitIgnore: true
+skipUpdateForceIgnore: true
+projectName: OrgCheck
+devHubAlias: DevHub_OrgCheck
